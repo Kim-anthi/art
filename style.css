@@ -90,3 +90,32 @@ button{
     width: 100%;
     height: 50vh;
 }
+p{
+    padding-left: 40px;
+}
+.row, .column{
+    padding-left: 40px;
+}
+.art{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+.cont {
+
+    padding: 15px;
+    display: flow;
+}
+footer{
+padding-top: 0px;
+
+}
+.img home{
+    float: right;
+    width: 40%;
+}
+.service{
+    padding: 30px;
+}
+.about{
+    padding: 30px;
+}
